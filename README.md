@@ -2,10 +2,6 @@
 
 A real-time face recognition system built with Python and OpenCV. The system implements a complete ML pipeline — from automated face data collection to classifier training and live webcam-based identity recognition.
 
-## 📸 Demo
-
-![Demo](screenshots/demo.png)
-
 ## 🚀 How It Works
 
 The project follows a 3-stage ML pipeline:
